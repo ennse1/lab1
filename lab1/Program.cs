@@ -9,10 +9,6 @@ namespace MyApp1
         {
             int[] a = new int[3] { 5, 3, 4 };
             Console.WriteLine(HW1.QueueTime(a, 1));
-            //int[] a = new int[4] { 10, 2, 3, 3 };
-            //Console.WriteLine(HW1.QueueTime(a, 2));
-            //int[] a = new int[3] { 2, 3, 10 };
-            //Console.WriteLine(HW1.QueueTime(a, 2));
         }
     }
 
